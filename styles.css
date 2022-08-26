@@ -1,0 +1,16 @@
+.btn {
+    color: red;
+  }
+  .blue {
+    color: blue;
+  }
+  h1:hover {
+    color: green;
+  }
+  .container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  }
+  
+  
