@@ -20,7 +20,7 @@ const superhero = {
 
 const { superName, powers, secretIdentity } = superhero;
 console.log(
-  `His name is ${superName}, his power is ${powers}, and his secret identity is ${secretIdentity}`
+  `His name is ${superName}, his power is ${powers}, his secret identity is ${secretIdentity}`
 );
 
 console.log("These people are over 30", isOverThirty);
