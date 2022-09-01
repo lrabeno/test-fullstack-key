@@ -7,7 +7,7 @@ const people = [
   { name: "Elena", age: 31 },
   { name: "Josh", age: 25 },
   { name: "Samantha", age: 22 },
-  { name: "Jessica", age: 35 },
+  { name: "Jessica", age: 36 },
 ];
 
 const isOverThirty = people.filter((person) => person.age > 30);
